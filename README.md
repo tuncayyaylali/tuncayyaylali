@@ -1,4 +1,5 @@
-### Hi there 👋I' m Tuncay YAYLALI
+### Hi there 👋
+### I am Tuncay YAYLALI
 
 I graduated from Istanbul Technical University, Department of Environmental Engineering, one of the oldest and most established universities in our country, by shaping my choice with the foresight that it will be an important discipline both on an international and national scale in line with the needs of the constantly developing and growing economy. After 6 years of experience in the Ministry of Environment and Forestry, I decided to continue working in the private sector, thinking that it would offer wider opportunities and add more value to my professional vision. In this context, I had middle and senior management experiences in various companies operating in the field of environment. 
 
