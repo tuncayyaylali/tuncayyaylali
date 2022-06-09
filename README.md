@@ -2,7 +2,7 @@
 
 I graduated from Istanbul Technical University, Department of Environmental Engineering, one of the oldest and most established universities in our country, by shaping my choice with the foresight that it will be an important discipline both on an international and national scale in line with the needs of the constantly developing and growing economy. After 6 years of experience in the Ministry of Environment and Forestry, I decided to continue working in the private sector, thinking that it would offer wider opportunities and add more value to my professional vision. In this context, I had middle and senior management experiences in various companies operating in the field of environment. 
 
-In addition, I graduated from the Department of Business Administration as a High Honor Student in 2020. I have successfully completed two separate Master’s Programs on Environmental Management and Occupational Safety in 2020 and 2021.
+In addition, I graduated from the Department of Business Administration as a High Honor Student in 2020. I have successfully completed two separate Master’s Programs on Environmental Management and Occupational Safety in 2020 and 2021. I am still continuing my undergraduate education in Management Information Systems.
 
 During my professional experience, I have always been interested in the world of informatics due to my special curiosity. In this context, I have stepped into the world of data science for 2 years and continue my education. My biggest goal is to continue my career in business analytics, data engineering, data science and machine learning engineering and become one of the good full stack data scientists.
 
@@ -16,6 +16,5 @@ Continuous improvement, continuous learning and change are among my most importa
 - 🤔 I’m looking for help with: JavaScript
 - 💬 Ask me about: Local and Global Environmental Issues
 - 📫 How to reach me: tuncayyaylali@gmail.com 
-- 😄 Pronouns: Atom Ant
-- ⚡ Fun fact: reading, making cheescake cakes and pastries, listening to Ramin DJAWADI and Loreena McKennitt
+- ⚡ Hobbies: reading, making cheescake cakes and pastries, listening to Ramin DJAWADI and Loreena McKennitt
 -->
