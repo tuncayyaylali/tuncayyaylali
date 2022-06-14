@@ -17,7 +17,6 @@ Continuous improvement, continuous learning and change are among my most importa
 - 👯 I’m looking to collaborate on: Data Science
 - 🤔 I’m looking for help with: JavaScript
 - 💬 Ask me about: Local and Global Environmental Issues
-- 📫 How to reach me: tuncay_yaylali@yahoo.com, tuncayyaylali@gmail.com, 
-- ![image width=75%](https://user-images.githubusercontent.com/81981206/173637877-41ed7590-88bf-42da-9014-8eb302f27737.png) https://www.linkedin.com/in/tuncayyaylali/ 
+- 📫 How to reach me: tuncay_yaylali@yahoo.com, tuncayyaylali@gmail.com, www.linkedin.com/in/tuncayyaylali 
 - ⚡ Hobbies: reading, making cheescake cakes and pastries, listening to Ramin DJAWADI and Loreena McKennitt
 -->
