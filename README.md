@@ -10,7 +10,7 @@ I have successfully completed the Data Science Specialization Training (DatamasT
 
 I have successfully completed the Machine Learning Operations (MLOps) Bootcamp, which was organized by Veri Bilimi Okulu, lasting about 3,5 months. In the content of the program, we had the opportunity to receive training from experts in the fields of machine learning operations (Introduction to MLOPs, Introduction to ML Engineering, ML Development Process, Deployment Patterns and Tools, MLflow, API Development with FastAPI, Model Deployment with FastAPI, Deployment on EC2, Deployment on Docker, Deployment on Kubernetes, Deployment on VM, ML Pipelines, Detecting Drift, Packaging Python Code, How to Scale with Spark, CI/CD, Jenkins, Introduction to IaaC (Terraform), Introduction to Ansible, Introduction to Datascience on AWS), and developed applications on the subjects and presented a Graduation Project.
 
-Continuous improvement, continuous learning and change are among my most important values.
+Continuous improvement and lifelong learning are among my most important values.
 
 - 🔭 I’m currently working on: Savra Cons. Mach. Eng. Env. Cons. Ind. Trade Ltd. Co.
 - 🌱 I’m currently learning: JavaScript, HTML, CSS and React
