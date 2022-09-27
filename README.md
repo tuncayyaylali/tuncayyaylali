@@ -12,7 +12,7 @@ He aspires to become an excellent full-stack data scientist and to continue his 
 - 💬 Ask me about: Local and Global Environmental Issues, Data Engineering, Data Science and MLOps Engineering
 - 📫 How to reach me: tuncay_yaylali@yahoo.com, tuncayyaylali@gmail.com, www.linkedin.com/in/tuncayyaylali 
 - 📖 Hobbies: reading books about data engineering, data analysis, data science and MLOps engineering
-- 🏀 Hobibes: playing basketball
+- 🏀 Hobbies: playing basketball
 - 👨‍🍳 Hobbies: making cheesecakes and pastries
 - 🎶 Hobbies: listening to Ramin DJAWADI and Loreena McKennitt
 -->
