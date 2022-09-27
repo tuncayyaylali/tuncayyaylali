@@ -7,9 +7,9 @@ My goal is to continue my career in data engineering, data analysis, data scienc
 
 - 🔭 I’m currently working on: Savra Cons. Mach. Eng. Env. Cons. Ind. Trade Ltd. Co.
 - 🌱 I’m currently learning: Java, JavaScript, HTML
-- 👯 I’m looking to collaborate on: Daat Engineer, Data Science and Machine Learning Operations
+- 👯 I’m looking to collaborate on: Data Engineer, Data Science and Machine Learning Operations
 - 🤔 I’m looking for help with: Java and JavaScript
-- 💬 Ask me about: Local and Global Environmental Issues
+- 💬 Ask me about: Local and Global Environmental Issues, Time Series, 
 - 📫 How to reach me: tuncay_yaylali@yahoo.com, tuncayyaylali@gmail.com, www.linkedin.com/in/tuncayyaylali 
-- ⚡ Hobbies: reading, making cheescake cakes and pastries, listening to Ramin DJAWADI and Loreena McKennitt
+- ⚡ Hobbies: reading books about data science, playing basketball, making cheesecakes and pastries, listening to Ramin DJAWADI and Loreena McKennitt
 -->
