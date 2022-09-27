@@ -5,11 +5,11 @@ He has been studying in the field of data science for a year. In this regard, he
 
 He aspires to become an excellent full-stack data scientist and to continue his career in data engineering, data analysis, data science, and MLOps engineering. His most significant values are time management, problem-solving, leadership, work ethic, attention to detail, and continual learning. He is married and has two sons.
 
-- 🔭 I’m currently working on: Savra Cons. Mach. Eng. Env. Cons. Ind. Trade Ltd. Co.
+- 🔭 I’m currently working on: Data Engineering, Data Science and MLOps Engineering
 - 🌱 I’m currently learning: Java, JavaScript, HTML
-- 👯 I’m looking to collaborate on: Data Engineer, Data Science and Machine Learning Operations
+- 👯 I’m looking to collaborate on: English 
 - 🤔 I’m looking for help with: Java and JavaScript
-- 💬 Ask me about: Local and Global Environmental Issues, Time Series, 
+- 💬 Ask me about: Local and Global Environmental Issues, Data Engineering, Data Science and MLOps Engineering
 - 📫 How to reach me: tuncay_yaylali@yahoo.com, tuncayyaylali@gmail.com, www.linkedin.com/in/tuncayyaylali 
 - ⚡ Hobbies: reading books about data science, playing basketball, making cheesecakes and pastries, listening to Ramin DJAWADI and Loreena McKennitt
 -->
