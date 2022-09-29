@@ -1,5 +1,5 @@
 ### Hi there 👋 I' m Tuncay YAYLALI
-He received his degree in environmental engineering from Istanbul Technical University in 1993. Six of his 24 years of professional experience in environmental engineering have been spent working for the Ministry of Environment and Forestry. He finished the Department of Business Administration in 2020 and two different Master's Programs in Environmental Management and Occupational Safety in 2020 and 2021, respectively.
+He received his degree in environmental engineering from Istanbul Technical University in 1993. He has 24 years of professional experience in the field of environmental engineering. Six years of this period passed from the Ministry of Environment and Forestry. Later, he had expert, mid-level management, and senior management experiences in various companies. Besides, he graduated from the business department in 2020 as a high honor student, and two different master's programs in environmental management and occupational safety in 2020 and 2021, respectively.
 
 He has been studying in the field of data science for a year. In this regard, he completed the Data Science Specialization Training (Data MasTR) at Miuul lasting 5 months, the Data Engineer Bootcamp at Miuul lasting 4 months, and the Machine Learning Operations (MLOps) Bootcamp at Veri Bilimi Okulu lasting 3.5 months.
 
