@@ -3,7 +3,7 @@ He received his degree in environmental engineering from Istanbul Technical Univ
 
 He has been studying in the field of data science for a year. In this regard, he completed the Data Science Specialization Training (Data MasTR) at Miuul lasting 5 months, the Data Engineer Bootcamp at Miuul lasting 4 months, and the Machine Learning Operations (MLOps) Bootcamp at Veri Bilimi Okulu lasting 3.5 months.
 
-He aspires to become an excellent full-stack data scientist and to continue his career in data engineering, data analysis, data science, and MLOps engineering. His most significant values are time management, problem-solving, leadership, work ethic, attention to detail, and continual learning. He is married and has two sons.
+He aspires to become an excellent full-stack data scientist and to continue his career in data engineering, data analysis, data science, and MLOps engineering. His most significant values are project and team management, time management, problem-solving, leadership, work ethic, attention to detail, self-discipline, self-motivated, and continual learning. He is married and has two sons.
 
 - 🔭 I’m currently working on: Data Engineering, Data Science and MLOps Engineering
 - 🌱 I’m currently learning: Java, JavaScript, HTML
