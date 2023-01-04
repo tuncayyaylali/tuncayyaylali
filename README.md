@@ -5,10 +5,10 @@ He stepped into the world of data science in 2021. In this regard, he completed 
 
 He is currently working as Data Engineer at Bentego. His most significant values are project and team management, time management, problem-solving, leadership, work ethic, attention to detail, self-discipline, self-motivated, and continual learning. He is married and has two sons.
 
-- 🔭 I’m currently working on: Data Engineering, Data Science and MLOps Engineering
-- 🌱 I’m currently learning: IBM Data Engineering Professional Certificate 
-- 👯 I’m looking to collaborate on: English 
-- 🤔 I’m looking for help with: API
+- 🔭 I’m currently working on: Data Engineering
+- 🌱 I’m currently learning: Big Data Technologies
+- 👯 I’m looking to collaborate on: -
+- 🤔 I’m looking for help with: -
 - 💬 Ask me about: Local and Global Environmental Issues, Data Engineering, Data Science and MLOps Engineering
 - 📫 How to reach me: tuncay_yaylali@yahoo.com, tuncayyaylali@gmail.com, www.linkedin.com/in/tuncayyaylali 
 - 📖 Hobbies: reading books about data engineering, data analysis, data science and MLOps engineering
