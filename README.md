@@ -1,13 +1,13 @@
 ### Hi there 👋 I' m Tuncay YAYLALI
-He received his degree in environmental engineering from Istanbul Technical University in 1993. He has 24 years of professional experience in the field of environmental engineering. Six years of this period passed from the Ministry of Environment and Forestry. Later, he had expert, mid-level management, and senior management experiences in various companies. Besides, he graduated from the business department in 2020 as a high honor student, and two different master's programs in environmental management and occupational safety in 2020 and 2021, respectively.
+I received my degree in environmental engineering from Istanbul Technical University in 1993. I have 24 years of professional experience in the field of environmental engineering. Six years of this period passed from the Ministry of Environment and Forestry. Later, I had expert, mid-level management, and senior management experiences in various companies. Besides, I graduated from the business department in 2020 as a high honor student, and two different master's programs in environmental management and occupational safety in 2020 and 2021, respectively.
 
-He stepped into the world of data science in 2021. In this regard, he completed the Data Science Specialization Training (Data MasTR) at Miuul lasting 5 months, the Data Engineer Bootcamp at Miuul lasting 4 months, and the Machine Learning Operations (MLOps) Bootcamp at Veri Bilimi Okulu lasting 3.5 months.
+I stepped into the world of data science in 2021. In this regard, I completed the Data Science Specialization Training (Data MasTR) at Miuul lasting 5 months, the Data Engineer Bootcamp at Miuul lasting 4 months, and the Machine Learning Operations (MLOps) Bootcamp at Veri Bilimi Okulu lasting 3.5 months.
 
-He is currently working as Data Engineer at Bentego. His most significant values are project and team management, time management, problem-solving, leadership, work ethic, attention to detail, self-discipline, self-motivated, and continual learning. He is married and has two sons.
+I am currently working as Data Engineer at Bentego. My most significant values are project and team management, time management, problem-solving, leadership, work ethic, attention to detail, self-discipline, self-motivated, and continual learning. I am married and have two sons.
 
 - 🔭 I’m currently working on: Data Engineering
 - 🌱 I’m currently learning: Big Data Technologies
-- 👯 I’m looking to collaborate on: -
+- 👯 I’m looking to collaborate on: Data Engineering
 - 🤔 I’m looking for help with: -
 - 💬 Ask me about: Local and Global Environmental Issues, Data Engineering, Data Science and MLOps Engineering
 - 📫 How to reach me: tuncay_yaylali@yahoo.com, tuncayyaylali@gmail.com, www.linkedin.com/in/tuncayyaylali 
