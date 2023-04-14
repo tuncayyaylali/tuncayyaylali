@@ -3,7 +3,7 @@ I received my degree in environmental engineering from Istanbul Technical Univer
 
 I stepped into the world of data science in 2021. In this regard, I completed the Data Science Specialization Training (Data MasTR) at Miuul lasting 5 months, the Data Engineer Bootcamp at Miuul lasting 4 months, and the Machine Learning Operations (MLOps) Bootcamp at Veri Bilimi Okulu lasting 3.5 months.
 
-I am currently working as Data Engineer at Bentego. My most significant values are project and team management, time management, problem-solving, leadership, work ethic, attention to detail, self-discipline, self-motivated, and continual learning. I am married and have two sons.
+I worked as Data Engineer at Bentego and Vodafone. My most significant values are project and team management, time management, problem-solving, leadership, work ethic, attention to detail, self-discipline, self-motivated, and continual learning. I am married and have two sons.
 
 - 🔭 I’m currently working on: Data Engineering
 - 🌱 I’m currently learning: Big Data Technologies
