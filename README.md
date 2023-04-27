@@ -5,7 +5,7 @@ I stepped into the world of data science in 2021 and within this scope, I comple
 
 I have certificates obtained from national and international reputable institutions in data engineering, data analysis, data science, and machine learning engineering. I have 6 months of experience in Data Engineering at Bentego and Vodafone, and the competencies to work as a Data Scientist, Data Analyst, MLOps Engineer, or ETL Developer, especially as a Data Engineer.
 
-His most significant values are time management, problem-solving, leadership, work ethic, attention to detail, and continual learning. He is married and has two sons.
+My most significant values are time management, problem-solving, leadership, work ethic, attention to detail, and continual learning. I am married and have two sons.
 
 - 🔭 I’m currently working on: Data Engineering
 - 🌱 I’m currently learning: Big Data Technologies
