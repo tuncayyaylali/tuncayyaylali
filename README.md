@@ -1,7 +1,7 @@
 ### Hi there 👋 I' m Tuncay YAYLALI
 I received my degree in environmental engineering from Istanbul Technical University in 1993. I have 24 years of professional experience in the field of environmental engineering. Six years of this period passed from the Ministry of Environment and Forestry. Later, I had expert, mid-level management, and senior management experiences in various companies. Besides, I graduated from the business department in 2020 as a high honor student, and two different master's programs in environmental management and occupational safety in 2020 and 2021, respectively.
 
-I stepped into the world of data science in 2021 and within this scope, I completed the Data Science Specialization Training (Data MasTR) at Miuul lasting 5 months, the Data Engineer Bootcamp at Miuul lasting 4 months, and the Machine Learning Operations (MLOps) Bootcamp at Veri Bilimi Okulu lasting 3.5 months.
+I stepped into the world of data science in 2021 and within this scope, I completed the Data Science Specialization Training (Data MasTR) at Miuul lasting six months, the Machine Learning Operations (MLOps) Bootcamp at Veri Bilimi Okulu lasting five months, and the Data Engineer Bootcamp at Miuul lasting 6 months.
 
 I have certificates obtained from national and international reputable institutions in data engineering, data analysis, data science, and machine learning engineering. I have 6 months of experience in Data Engineering at Bentego and Vodafone, and the competencies to work as a Data Scientist, Data Analyst, MLOps Engineer, or ETL Developer, especially as a Data Engineer.
 
