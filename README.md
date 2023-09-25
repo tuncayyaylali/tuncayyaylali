@@ -13,7 +13,7 @@ In line with the training I received and the work experience I gained during my 
 - Data Engineering (Linux, Bash Scripting, Git, Github, PostgreSQL, SQL, MySQL, Apache Spark, Apache Hadoop, HDFS, YARN, MapReduce, Apache Hive, Apache Sqoop, Apache Kafka, Python, NoSQL Databases, Apache Cassandra, MongoDB, Elasticsearch, Apache Airflow, CI/CD, Jenkins, Logstash, Apache NiFi, Delta Lake, Spark Streaming)
 - MLOps Engineering (ML Engineering, ML Development, ML Deployment, ML Pipelines, MLFlow, FastAPI, AWS Services (EC2, S3, IAM), Docker, Kubernetes, VM, CI/CD, Jenkins, Terraform, Ansible)
 
-My most significant values are time management, problem-solving, leadership, work ethic, attention to detail, and continual learning. He is married and has two sons.
+My most significant values are time management, problem-solving, leadership, work ethic, attention to detail, and continual learning. 
 
 - 🔭 I’m currently working on: Data Engineering
 - 🌱 I’m currently learning: Big Data Technologies
