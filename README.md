@@ -1,30 +1,18 @@
 ### Hi there 👋 I' m Tuncay YAYLALI
-I received my degree in environmental engineering from Istanbul Technical University in 1993. I have 24 years of professional experience in the field of environmental engineering. Six years of this period passed from the Ministry of Environment and Forestry. Later, I had expert, mid-level management, and senior management experiences in various companies. Besides, I graduated from the business department in 2020 as a high honor student, and two different master's programs in environmental management and occupational safety in 2020 and 2021, respectively.
+I have 24 years of professional experience in the field of Environmental Engineering, with 6 of those years being in the public sector. Throughout my career, I have served as an expert, mid-level, and senior-level manager.
 
-I stepped into the world of data science in 2021 and within this scope, I completed the Data Science Specialization Training (Data MasTR) at Miuul lasting six months, the Data Engineer Bootcamp at Miuul lasting six months, and the Machine Learning Operations (MLOps) Bootcamp at Veri Bilimi Okulu lasting five months.
-
-In addition, I have certificates obtained from national and international institutions (Coursera, Udemy, Datacamp, A Cloud Guru, Miuul, Veri Bilimi Okulu, Snowflake, AWS, Linkedin Learning, Cloudera, ICTA) in data engineering, data science, and MLOps engineering. These certificates can be found in my LinkedIn profile (https://www.linkedin.com/in/tuncayyaylali/).
-
-I have 6 months of experience in Data Engineering at Bentego and Vodafone.
-
-In line with the training I received and the work experience I gained during my time as a data engineer, I have knowledge and experience of the following tools:
-
-- Data Science (Python, SQL, T-SQL, CRM Analytics, Feature Engineering, Natural Language Processing, Rating and Sorting, Recommendation Systems, Linear Regression, Multiple Linear Regression, Ridge Regression, Lasso Regression, Elastic Regression, K-Nearest Neighbours, Support Vector Regression, Artificial Neural Network, Classification and Regression Tree, Random Forests, Gradient Boosting Machines, XGBoost, Light GBM, Catboost, K-Means, Time Series)
-- Data Engineering (Linux, Bash Scripting, Git, Github, PostgreSQL, SQL, MySQL, Apache Spark, Apache Hadoop, HDFS, YARN, MapReduce, Apache Hive, Apache Sqoop, Apache Kafka, Python, NoSQL Databases, Apache Cassandra, MongoDB, Elasticsearch, Apache Airflow, CI/CD, Jenkins, Logstash, Apache NiFi, Delta Lake, Spark Streaming)
-- MLOps Engineering (ML Engineering, ML Development, ML Deployment, ML Pipelines, MLFlow, FastAPI, AWS Services (EC2, S3, IAM), Docker, Kubernetes, VM, CI/CD, Jenkins, Terraform, Ansible)
-
-My most significant values are time management, problem-solving, leadership, work ethic, attention to detail, and continual learning. 
+In 2021, I transitioned to the IT sector, which I am passionate about, through data science. During this transition, I successfully completed a 6-month Data Science Expertise Training, followed by a 5-month MLOps Bootcamp, and then a 6-month Data Engineer Bootcamp. Additionally, I have obtained certifications from national and international organizations that can be accessed through my LinkedIn profile. In November 2022, I made a career change and entered the IT industry, where I worked as a Data Engineer for reputable companies such as Bentego and Vodafone.
 
 - 🔭 I’m currently working on: Data Engineering
 - 🌱 I’m currently learning: Big Data Technologies
 - 👯 I’m looking to collaborate on: Data Engineering
-- 🤔 I’m looking for help with: -
-- 💬 Ask me about: Local and Global Environmental Issues, Data Engineering, Data Science and MLOps Engineering
+- 💬 Ask me about: Local and Global Environmental Issues, Data Engineering, Data Science, and MLOps Engineering
 - 📫 How to reach me: tuncay_yaylali@yahoo.com, tuncayyaylali@gmail.com, www.linkedin.com/in/tuncayyaylali 
-- 📖 Hobbies: reading books about data engineering, data analysis, data science and MLOps engineering
-- 🏀 Hobbies: playing basketball
+- 📖 Hobbies: reading books about data engineering, data analysis, data science, and MLOps engineering
+- 🏀 Hobbies: playing basketball, watching tennis matches and snooker
 - 👨‍🍳 Hobbies: making cheesecakes and pastries
-- 🎶 Hobbies: listening to Ramin DJAWADI and Loreena McKennitt
+- 🎶 Hobbies: listening to Hans Zimmer, Ramin DJAWADI, and Loreena McKennitt
+- 🌱 Hobbies: traveling and outdoor activities (mountain climbing and exploring the forest)
 -->
 
 ### Languages and Tools ###
