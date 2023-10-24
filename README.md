@@ -1,9 +1,13 @@
 ### Hi there 👋 I' m Tuncay YAYLALI
-•I have 24 years of professional experience in the field of Environmental Engineering, including 6 years in the public sector.
-•I have successfully managed numerous projects, collaborating with multidisciplinary teams comprised of professionals from various fields.
-•In 2021, I developed an interest in the areas of data science, data engineering, and MLOps engineering.
-•I acquired certifications from national and international organizations, which are detailed on my LinkedIn profile, demonstrating my commitment to continuous learning and expertise development.
-•In November 2022, I made a strategic career transition into the IT sector and started working as a Data Engineer.
+I have 24 years of professional experience in the field of Environmental Engineering, including 6 years in the public sector.
+
+I have successfully managed numerous projects, collaborating with multidisciplinary teams comprised of professionals from various fields.
+
+In 2021, I developed an interest in the areas of data science, data engineering, and MLOps engineering.
+
+I acquired certifications from national and international organizations, which are detailed on my LinkedIn profile, demonstrating my commitment to continuous learning and expertise development.
+
+In November 2022, I made a strategic career transition into the IT sector and started working as a Data Engineer.
 
 - 🔭 I’m currently working on: Data Engineering
 - 🌱 I’m currently learning: Big Data Technologies
