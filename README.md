@@ -1,7 +1,9 @@
 ### Hi there 👋 I' m Tuncay YAYLALI
-I have 24 years of professional experience in the field of Environmental Engineering, with 6 of those years being in the public sector. Throughout my career, I have served as an expert, mid-level, and senior-level manager.
-
-In 2021, I transitioned to the IT sector, which I am passionate about, through data science. During this transition, I successfully completed a 6-month Data Science Expertise Training, followed by a 5-month MLOps Bootcamp, and then a 6-month Data Engineer Bootcamp. Additionally, I have obtained certifications from national and international organizations that can be accessed through my LinkedIn profile. In November 2022, I made a career change and entered the IT industry, where I worked as a Data Engineer for reputable companies such as Bentego and Vodafone.
+•I have 24 years of professional experience in the field of Environmental Engineering, including 6 years in the public sector.
+•I have successfully managed numerous projects, collaborating with multidisciplinary teams comprised of professionals from various fields.
+•In 2021, I developed an interest in the areas of data science, data engineering, and MLOps engineering.
+•I acquired certifications from national and international organizations, which are detailed on my LinkedIn profile, demonstrating my commitment to continuous learning and expertise development.
+•In November 2022, I made a strategic career transition into the IT sector and started working as a Data Engineer.
 
 - 🔭 I’m currently working on: Data Engineering
 - 🌱 I’m currently learning: Big Data Technologies
