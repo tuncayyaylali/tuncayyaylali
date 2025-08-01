@@ -1,8 +1,7 @@
 # 🌍 From Environmental Impact to Data Impact  
 ### 👋 I'm Tuncay YAYLALI — Engineering Insightful Solutions
 
-**Data Engineer & System Engineer @ Practicus AI**  
-☁️ Cloud-Native Architecting • 🔗 Open-Source Integrations • ☸️ K8s Enthusiast
+**Data Engineer**  
 
 ---
 
